@@ -1,0 +1,19 @@
+{
+  "name": "MyTokenList",
+  "timestamp": "2025-06-08T15:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5E6D0CE8585C788e7Ee9C642ba909b26A9De1364",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://github.com/user24122morke/my-tokenList/blob/main/tether-usdt-icon.png?raw=true"
+    }
+  ]
+}
